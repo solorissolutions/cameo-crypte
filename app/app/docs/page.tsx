@@ -1,9 +1,6 @@
 "use client";
 
-export const metadata = {
-  title: "Documentation – Caméo Crypté",
-  description: "Explore the technology and security behind Caméo Crypté.",
-};
+
 
 import Link from "next/link";
 

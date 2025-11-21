@@ -1,10 +1,6 @@
 "use client";
 
-export const metadata = {
-  title: "Guardian Dashboard – Caméo Crypté",
-  description:
-    "Manage recovery requests and provide approvals via the guardian dashboard.",
-};
+
 
 import { useAccount } from "wagmi";
 import { ConnectButton } from "@rainbow-me/rainbowkit";

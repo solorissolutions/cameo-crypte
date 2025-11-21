@@ -1,9 +1,6 @@
 "use client";
 
-export const metadata = {
-  title: "Threat Model – Caméo Crypté",
-  description: "Understand the security assumptions and mitigations of Caméo Crypté.",
-};
+
 
 import { ThreatModelTable } from "../../../components/ThreatModelTable";
 
