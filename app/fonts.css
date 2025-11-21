@@ -1,0 +1,13 @@
+/* Import external fonts.  Note that some fonts specified in the
+ * design brief (Aeonik Pro, Neue Montreal, Satoshi, General
+ * Sans, PP Mori) are proprietary and not hosted on public
+ * font repositories. This file includes high‑quality open
+ * substitutes via Google Fonts and JetBrains Mono for code.
+ */
+
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&family=JetBrains+Mono:wght@400;500;700&display=swap');
+
+/* Font face declarations for custom fonts can be added here if
+ * licences permit. For example, to include Aeonik Pro from a
+ * local file, place the font in the public/fonts folder and
+ * reference it using @font-face. See README for details. */

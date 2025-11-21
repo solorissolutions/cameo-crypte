@@ -1,0 +1,21 @@
+# Node / pnpm
+node_modules/
+.pnpm-store/
+dist/
+.build/
+
+# Next.js
+.next/
+.out/
+.env*.local
+
+# Turbo
+.turbo/
+
+# OS / Editor
+.DS_Store
+Thumbs.db
+*.log
+.vscode/
+.idea/
+node_modules
